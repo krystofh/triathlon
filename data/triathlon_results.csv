@@ -1,0 +1,536 @@
+Platz,PAK,SNR,Name,Vorname,Verein,AK,Zeit,Schwimmen,Rad,Laufen,Details
+1,1,5,Van Vlerken,Per,LC Dübener Heide,AK 35,01:53:44,00:19:26,00:56:33,00:34:50,Details
+2,1,28,Seifert,Florian,TVB09 e. V. / Team Berlin,AK 30,01:55:01,00:19:27,00:58:17,00:34:19,Details
+3,2,4,Schulz,Martin,SC DHfK Leipzig e. V.,AK 30,01:55:30,00:20:42,00:57:51,00:33:56,Details
+4,2,10,Schilling,Alexander,athleticnetworks.com,AK 35,01:56:22,00:19:30,00:59:18,00:34:48,Details
+5,1,7,Warmuth,Kenneth,KTT 01,AK 25,01:56:45,00:20:25,00:59:04,00:34:35,Details
+6,1,38,Berger,Felix,Teha Endurance Group,AK 20,01:58:21,00:21:38,00:58:28,00:35:10,Details
+7,3,29,Breitkreuz,Maximilian,Roter Stern Leipzig,AK 35,01:59:50,00:23:20,00:56:52,00:36:05,Details
+8,2,21,Weihmüller,Morris,LTV Obereichsfeld e. V.,AK 20,01:59:50,00:22:03,01:00:37,00:34:01,Details
+9,3,447,Hartmann,Johannes,STRONK,AK 30,02:00:22,00:20:58,01:00:31,00:35:05,Details
+10,1,50,Poerner,Gernot,TC Merseburg,AK 45,02:00:27,00:23:14,00:57:27,00:36:24,Details
+11,4,56,Laube,Fabian,TuS Neukölln Berlin,AK 35,02:03:01,00:19:27,01:02:59,00:36:45,Details
+12,3,8,Heinemann,Lorenz,SV Halle Triathlon,AK 20,02:03:35,00:21:36,01:02:07,00:36:47,Details
+13,4,246,Dreier,Tobias,SV Döbeln 05,AK 30,02:03:48,00:22:51,01:00:45,00:36:49,Details
+14,1,88,Peim,Alexander,TSV Saalburg e. V.,AK 40,02:04:38,00:23:44,00:59:50,00:37:17,Details
+15,5,188,Hartmann,Christoph,Team Hartmann,AK 35,02:06:36,00:22:50,01:01:19,00:39:16,Details
+16,2,17,Scherl,Lukas,SV Bayreuth,AK 25,02:06:41,00:24:09,00:59:41,00:39:18,Details
+17,6,107,Gonschorek,Patrick,SC DHfK Leipzig e. V.. Triathlon,AK 35,02:07:21,00:26:10,01:02:09,00:35:40,Details
+18,2,39,Müller,Erik,Leipziger Triathlon e. V.,AK 45,02:07:24,00:23:13,01:02:30,00:38:09,Details
+19,3,3,Petzold,Maik,Bautzener LV Rot-Weiß 90 e. V.,AK 45,02:07:48,00:20:40,01:05:22,00:37:33,Details
+20,7,101,Heinze,Christoph,TRIStars Markkleeberg e. V.,AK 35,02:07:59,00:24:12,01:04:17,00:35:54,Details
+21,5,154,König,Sebastian,LC Dübener Heide,AK 30,02:08:42,00:26:40,01:02:54,00:35:41,Details
+22,6,272,Buggenthin,Henry,TRIStars Markkleeberg e. V.,AK 30,02:09:09,00:23:22,01:05:18,00:37:08,Details
+23,2,114,Conrad,Marcus,TEHA Endurance Group,AK 40,02:09:35,00:28:32,01:01:11,00:36:04,Details
+24,3,715,Brandl,Nicola,Athletico Leipzig e. V.,AK 25,02:09:49,00:24:53,01:03:45,00:37:52,Details
+25,4,523,Knüpfer,Tim,Leipzig,AK 20,02:10:33,00:25:39,01:03:48,00:37:21,Details
+26,7,51,Könner,Michael,sisu-training,AK 30,02:10:58,00:26:22,01:02:54,00:38:04,Details
+27,1,173,Bogen,Gregor,LFV Oberholz e. V.,AK 50,02:11:00,00:24:24,01:03:29,00:39:43,Details
+28,8,36,Riedrich,Christian,TVB09 e. V./Team Berlin,AK 30,02:11:06,00:19:25,01:01:43,00:46:04,Details
+29,8,121,Werner,Rico,Athletico Leipzig e. V.,AK 35,02:11:47,00:28:23,01:00:47,00:39:07,Details
+30,4,661,Groß,Yannis,Stertz Performance,AK 25,02:11:48,00:24:08,01:05:11,00:38:38,Details
+31,5,280,Musolf,Tim,ASC Göttingen Triathlon Team,AK 25,02:12:12,00:24:21,01:03:22,00:40:12,Details
+32,3,131,Golatowski,Stephan,LFV Oberholz e. V.,AK 40,02:12:26,00:24:41,01:01:17,00:42:15,Details
+33,1,15,Kiso,Andreas,SGE Exter,AK 55,02:12:29,00:24:44,01:05:49,00:37:46,Details
+34,4,129,Ronneburger,Ralf,Athletico Leipzig e. V.,AK 45,02:13:33,00:26:17,01:04:21,00:39:20,Details
+35,5,458,Winkler,Lars,Leipzig,AK 45,02:13:40,00:23:09,01:03:44,00:42:32,Details
+36,9,685,Marcks,Franz,APPSfactory,AK 30,02:13:51,00:26:06,01:02:29,00:41:10,Details
+37,9,183,Rohde,Leonard,Tri-Team Senftenberg,AK 35,02:14:14,00:27:55,01:03:24,00:38:48,Details
+38,6,479,Stechemesser,Nico,Team Gelb Dresden,AK 45,02:14:15,00:20:41,01:07:02,00:42:32,Details
+39,10,482,Böhm,Ralf,Chemnitz,AK 30,02:14:19,00:25:36,01:01:44,00:42:30,Details
+40,11,98,Wolf,Paul,SC DHfK Leipzig e. V.,AK 30,02:14:31,00:26:57,01:02:58,00:40:40,Details
+41,6,213,Menzel,Max,TV Dresden e. V.,AK 25,02:14:40,00:22:34,01:01:36,00:46:26,Details
+42,10,480,Dolge,René,Salzatal,AK 35,02:14:41,00:27:23,01:04:04,00:38:57,Details
+43,4,24,Barth,Paul,Team ultraSPORTS,AK 40,02:14:53,00:27:08,01:03:22,00:40:01,Details
+44,5,20,Franz,Matthias,Moritzburger Triathlonverein e. V.,AK 40,02:15:06,00:27:20,01:05:58,00:37:14,Details
+45,7,130,Müller,Sebastian,TV Dresden e. V.,AK 25,02:15:25,00:24:22,01:05:11,00:42:17,Details
+46,11,293,Steiniger,Sascha,SG Falkenstein,AK 35,02:15:49,00:28:00,01:03:47,00:39:43,Details
+47,12,205,Bernau,Stefan,DLRG Luckenwalde,AK 35,02:15:54,00:26:40,01:05:06,00:39:10,Details
+48,2,451,Endler,Jan,Rapswegrunners,AK 50,02:15:58,00:26:50,01:05:37,00:39:00,Details
+49,13,187,Rose,Tobias,Teamwork Berlin e. V.,AK 35,02:16:00,00:25:33,01:05:13,00:41:20,Details
+50,14,251,Franz,Dustin,DLRG Luckenwalde,AK 35,02:16:19,00:27:41,01:05:16,00:39:48,Details
+51,6,253,Bernardoni,Fabio,Triathlon Verein Dresden,AK 40,02:16:39,00:24:16,01:07:25,00:40:52,Details
+52,3,210,Berger,Rodrigo,ADREIKA,AK 50,02:16:58,00:25:17,01:09:00,00:39:32,Details
+53,8,62,Eberwein,Lukas,Bremen,AK 25,02:17:14,00:26:34,01:06:29,00:39:23,Details
+54,7,552,Ganzon,Martin,SV Zwickau 04,AK 40,02:18:08,00:23:57,01:05:27,00:44:37,Details
+55,12,478,Behnisch,Yves,Rennrad statt Auto,AK 30,02:18:12,00:29:00,01:06:56,00:37:59,Details
+56,8,698,Freund,Nico,Team Resource,AK 40,02:18:41,00:28:00,01:03:17,00:43:11,Details
+57,15,116,Kubick,Christoph,LC Auensee Leipzig e. V.,AK 35,02:18:52,00:25:53,01:04:33,00:44:43,Details
+58,9,550,Saar,Ralf,Markkleeberg,AK 40,02:19:02,00:27:07,01:08:24,00:38:45,Details
+59,4,266,Silva,Danny,LG eXa Leipzig e. V.,AK 50,02:19:41,00:25:16,01:10:29,00:40:03,Details
+60,16,156,Sander,Marco,LFV Oberholz e. V.,AK 35,02:20:08,00:27:51,01:07:22,00:41:52,Details
+61,17,81,Dragon,Ralf,Triathlon Verein Dresden e. V.,AK 35,02:20:50,00:27:01,01:05:02,00:43:25,Details
+62,13,291,Rösch,Moritz,Roter Stern,AK 30,02:20:59,00:26:08,01:07:31,00:43:16,Details
+63,2,234,Mueller,Jiri,StVo Limbach-Oberfrohna,AK 55,02:21:15,00:22:52,01:09:21,00:44:22,Details
+64,14,716,Eyssen,Moritz,Berlin,AK 30,02:21:18,00:28:25,00:00:00,00:39:33,Details
+65,3,67,Methfessel,Jan,TRI-4-FUN.SVKT,AK 55,02:21:25,00:24:40,01:05:22,00:47:32,Details
+66,5,150,Peschka,Andreas,ADREIKA,AK 50,02:21:35,00:27:38,01:05:52,00:43:58,Details
+67,4,127,Lauterbach,Thomas,Muldental-Triathlon e. V.,AK 55,02:21:43,00:24:20,01:09:55,00:42:25,Details
+68,15,676,Lamsbach,Marcel,TSV Heiligenrode,AK 30,02:21:57,00:32:07,01:05:09,00:39:29,Details
+69,18,428,Mucke,Marcel,TRI-Sport Wurzen e. V.,AK 35,02:22:01,00:30:43,01:06:58,00:38:21,Details
+70,16,100,Viehweg,Tony,Athletico Leipzig e. V.,AK 30,02:22:01,00:25:20,01:07:30,00:44:19,Details
+71,6,6,Johannsen,Klaus,Leipziger Triathlon e. V.,AK 50,02:22:04,00:21:37,01:07:46,00:48:23,Details
+72,7,527,Gerstäcker,Dirk,SC DHfK Leipzig e. V.. Radsport,AK 50,02:22:11,00:27:58,01:04:48,00:44:12,Details
+73,5,346,Drossel,Titus,Merseburg,AK 20,02:22:16,00:29:49,01:04:49,00:41:24,Details
+74,10,99,Ziegener,Dirk,SC DHfK Leipzig e. V.,AK 40,02:22:24,00:27:07,01:08:35,00:43:05,Details
+75,17,303,Tüllinghoff,Adrian,Leipzig,AK 30,02:22:27,00:29:06,01:09:49,00:39:58,Details
+76,11,255,Kuhn,Denny,ASC Göttingen Triathlon Team,AK 40,02:22:41,00:28:33,01:08:11,00:42:12,Details
+77,8,182,Orlamünder,Eckhard,TSV Saalburg/Team Iron Mind,AK 50,02:22:57,00:24:47,01:08:08,00:45:00,Details
+78,6,700,Purath,Moritz,Leipzig,AK 20,02:23:08,00:29:09,01:09:00,00:39:49,Details
+79,7,80,Brand,Nico,Erfurter SSC Wasserball,AK 45,02:23:15,00:20:36,01:08:12,00:50:22,Details
+80,5,746,Witke,Thomas,Dresden,AK 55,02:23:29,00:26:12,01:08:10,00:44:21,Details
+81,19,142,Wiegand,Mike,Team Erdinger Alkoholfrei,AK 35,02:23:33,00:28:07,01:07:03,00:43:51,Details
+82,12,408,Jürgens,Uwe,Airbus SG,AK 40,02:23:39,00:28:25,01:06:02,00:44:03,Details
+83,13,333,John,André,Halle (Saale),AK 40,02:23:42,00:30:56,01:08:27,00:39:41,Details
+84,14,181,Büttner,Simeon,power & pace,AK 40,02:23:46,00:27:05,01:05:03,00:47:34,Details
+85,15,176,Klemm,Alexander,LFV Oberholz e. V.,AK 40,02:23:58,00:25:48,01:10:56,00:42:40,Details
+86,20,295,Freistedt,Christian,Leipzig,AK 35,02:24:09,00:26:11,01:07:45,00:46:27,Details
+87,21,285,Markovic,Igor,A3K Berlin,AK 35,02:24:10,00:28:18,01:07:43,00:42:23,Details
+88,16,521,Bausch,René,Sportgruppe Bienenfleiß,AK 40,02:24:10,00:28:04,01:08:10,00:43:15,Details
+89,22,439,Potjomkin,Timofei,SC DHfK Leipzig e. V.,AK 35,02:24:10,00:27:33,01:09:03,00:43:20,Details
+90,23,87,Hirte,Björn,BSV Friesen 1895 e. V.,AK 35,02:24:16,00:29:18,01:05:19,00:45:54,Details
+91,17,465,Simon,Falk,Red Devils Burgstädt - Turnen,AK 40,02:24:24,00:28:37,01:06:55,00:43:48,Details
+92,8,365,Grimmert,Danny,ERDINGER Active TEAM,AK 45,02:24:26,00:27:44,01:04:57,00:45:12,Details
+93,9,592,Staab,Holger,SC Heigenbrücken,AK 45,02:24:35,00:25:49,01:08:47,00:45:33,Details
+94,9,119,Bail,Silvio,LFV Oberholz e. V.,AK 50,02:24:45,00:25:09,01:09:23,00:46:05,Details
+95,18,53,Liepe,Mario,VfL Eilenburg,AK 40,02:25:03,00:24:51,01:08:58,00:47:11,Details
+96,24,310,Schurig,Christoph,SC DHfK Leipzig e. V.,AK 35,02:25:24,00:28:01,01:08:43,00:43:26,Details
+97,7,647,Thormann,Tade,SV Blau-Rot Pratau e. V. Abt. Judo,AK 20,02:25:27,00:29:45,01:12:03,00:39:23,Details
+98,10,140,Perlhofer,Michael,SC DHfK Leipzig e. V.,AK 45,02:25:27,00:27:02,01:08:12,00:45:14,Details
+99,19,757,Haase,Christian,VfB Schach Leipzig,AK 40,02:25:38,00:27:20,01:08:51,00:44:41,Details
+100,18,77,Bleck,Simon,ERDINGER Active TEAM/LG eXa Leipzig,AK 30,02:25:48,00:27:54,01:09:27,00:43:34,Details
+101,20,682,Lübbert,Christoph,Berlin,AK 40,02:25:49,00:32:56,01:07:51,00:41:08,Details
+102,25,302,Oertelt,Marcus,Weisser Keniner,AK 35,02:26:08,00:28:30,01:08:35,00:43:44,Details
+103,21,146,Bräunlich,Michael,STV Limbach-Oberfrohna,AK 40,02:26:08,00:30:29,01:09:39,00:41:06,Details
+104,22,343,Hoyer,Steffen,Karnevalsclub Zscherndorf 1976 e. V.,AK 40,02:26:10,00:28:55,01:09:03,00:42:59,Details
+105,23,327,Urbansky,Steffen,Jena,AK 40,02:26:21,00:27:55,01:14:57,00:38:46,Details
+106,10,37,Mende,Oliver,Team Zoot Europe,AK 50,02:26:23,00:24:15,01:10:01,00:46:03,Details
+107,24,580,Freiherr,Lars,Mittelpunkt Jena,AK 40,02:26:28,00:28:38,01:08:11,00:44:07,Details
+108,25,125,Pfeiffer,Robin,SSV Blau-Weiß Gersdorf,AK 40,02:26:29,00:32:12,01:05:22,00:44:39,Details
+109,19,359,Schmager,Sebastian,Leipzig,AK 30,02:26:40,00:29:17,01:08:38,00:43:06,Details
+110,11,202,Helbig,Matthias,SG Chemie Zeitz e. V.,AK 45,02:26:55,00:26:12,01:06:20,00:49:35,Details
+111,11,404,Löffler,Carsten,Groitzsch,AK 50,02:27:03,00:33:20,01:05:49,00:42:59,Details
+112,26,207,Müller,Torsten,Triathlon Team Lausitz,AK 35,02:27:12,00:29:11,01:11:39,00:41:52,Details
+113,12,782,Höhne,André,Leipzig,AK 45,02:27:26,00:27:23,01:12:27,00:43:12,Details
+114,26,120,Zeunert,André,TSV 92 Freiberg,AK 40,02:27:31,00:29:45,01:10:41,00:42:32,Details
+115,6,504,Demuth,Matthias,Three4Tri,AK 55,02:27:37,00:26:56,01:08:13,00:47:54,Details
+116,9,758,Schmieder,Erik,SG Strießen,AK 25,02:27:46,00:31:53,01:06:47,00:44:43,Details
+117,12,152,Kahl,Torsten,SC DHfK Leipzig e. V.,AK 50,02:27:51,00:25:22,01:11:02,00:44:52,Details
+118,13,438,Bunk,Andreas,neuelaufkultur.de,AK 45,02:28:21,00:28:54,01:11:04,00:44:33,Details
+119,27,105,Forberger,René,SC DHfK Leipzig e. V.. Triathlon,AK 40,02:28:25,00:31:59,01:08:18,00:44:16,Details
+120,13,467,Meise,Matthias,Squadra Veloce,AK 50,02:28:27,00:30:35,01:06:17,00:45:55,Details
+121,14,607,Püschmann,Dirk,Team Push-man.de,AK 50,02:28:34,00:21:34,01:16:17,00:46:15,Details
+122,20,432,Kunzel,Stefan,Dresden,AK 30,02:28:44,00:30:47,01:11:03,00:40:23,Details
+123,21,278,Schmidt,Stefan,SG Chemie Bitterfeld,AK 30,02:28:47,00:33:03,01:07:50,00:42:51,Details
+124,1,668,Rendez,Helmar,DUC Berlin e. V.,AK 60,02:28:49,00:24:50,01:14:05,00:45:05,Details
+125,22,671,Mache,Franz,DLRG Leipzig,AK 30,02:28:57,00:25:40,01:13:19,00:45:46,Details
+126,28,133,Burghardt,Marco,TSV Heiligenrode,AK 40,02:29:00,00:26:30,01:12:54,00:44:48,Details
+127,10,502,Spang,Christoph,Team Jana,AK 25,02:29:01,00:26:47,01:12:52,00:45:06,Details
+128,29,54,Weigert,David,ReWork,AK 40,02:29:03,00:32:44,01:07:00,00:43:39,Details
+129,14,484,Menzel,Frank,SSV Leutzsch,AK 45,02:29:12,00:27:28,01:06:36,00:49:10,Details
+130,15,666,Toepel,Jörg,Leipzig,AK 45,02:29:15,00:29:32,01:12:28,00:43:12,Details
+131,16,19,Danyi,Matthias,FC St. Pauli Triathlon,AK 45,02:29:15,00:24:06,01:13:23,00:48:04,Details
+132,11,496,Reichel,Tom,Plauen,AK 25,02:29:22,00:35:57,01:03:49,00:43:27,Details
+133,30,190,Schulz,Andreas,USC Magdeburg,AK 40,02:29:23,00:25:10,01:13:43,00:46:29,Details
+134,17,290,Kudela,Torsten,TVDÄ,AK 45,02:29:25,00:27:03,01:08:41,00:45:47,Details
+135,7,166,Seifert,Steffen,SV Zwickau 04,AK 55,02:29:33,00:29:09,01:10:47,00:44:39,Details
+136,15,289,Sauer,Marian,Bautzener LV Rot-Weiß 90 e. V.,AK 50,02:29:35,00:30:38,01:07:56,00:45:56,Details
+137,8,111,Krutzer,René,TRIStars Markkleeberg e. V.,AK 55,02:29:40,00:27:31,00:00:00,00:43:29,Details
+138,31,123,Piske,Daniel,Athletico Leipzig e. V.,AK 40,02:29:42,00:30:38,01:10:00,00:44:52,Details
+139,23,279,Dath,Stefan,Athletico Leipzig e. V.,AK 30,02:29:48,00:23:08,01:09:21,00:52:29,Details
+140,12,718,Lüter,Rouven,Lüter ist die Gang,AK 25,02:29:53,00:25:35,01:15:59,00:44:40,Details
+141,27,379,Greulich,Lars,RSV Speiche e. V.,AK 35,02:29:54,00:36:16,01:05:25,00:42:25,Details
+142,9,74,Pieruschka,Roger,SC DHfK Leipzig e. V.,AK 55,02:29:55,00:27:03,01:12:55,00:45:23,Details
+143,10,268,Knipping,Uwe,power & pace,AK 55,02:29:59,00:32:34,01:05:37,00:47:03,Details
+144,16,35,Lehn,Alexander,Moritzburger Triathlonverein e. V.,AK 50,02:29:59,00:29:21,01:05:20,00:50:02,Details
+145,13,294,Liebe,Marvin,ERDINGER Active TEAM,AK 25,02:30:01,00:30:55,01:09:39,00:45:06,Details
+146,28,772,Wieczorek,Micha,Moritzburger Triathlonverein e. V.,AK 35,02:30:02,00:29:25,01:06:36,00:49:38,Details
+147,18,600,Kischlat,Tilo,Leipzig,AK 45,02:30:06,00:25:07,01:12:15,00:48:26,Details
+148,1,286,Globig,Sebastian,TVB 09,JUN,02:30:15,00:29:13,01:08:39,00:48:06,Details
+149,32,400,Vogt,Thomas,BSG Porsche Leipzig,AK 40,02:30:18,00:30:09,01:10:46,00:45:11,Details
+150,11,460,Ockert,Uwe,Leipzig,AK 55,02:30:21,00:28:41,01:09:47,00:47:21,Details
+151,29,49,Zellmer,Max,GSBV Halle,AK 35,02:30:33,00:26:58,01:10:30,00:47:13,Details
+152,19,102,Enke,Ronny,TriTeam SV Sachsen 90 Werdau e. V.,AK 45,02:30:41,00:27:13,01:13:39,00:44:39,Details
+153,17,159,Schneider,Steffen,Moritzburger Triathlonverein e. V.,AK 50,02:30:41,00:31:11,01:07:44,00:45:56,Details
+154,18,211,Küttner,Jens,Sportfreunde Ottendorf-Okrilla,AK 50,02:30:43,00:27:59,01:11:30,00:45:19,Details
+155,19,335,Börner,Tino,Erfurt,AK 50,02:30:46,00:25:36,01:15:55,00:44:37,Details
+156,24,442,Kietzmann,Martin,Martin,AK 30,02:30:50,00:32:55,01:08:59,00:43:54,Details
+157,33,63,Fricke,Martin,ERDINGER Active TEAM,AK 40,02:30:56,00:31:22,01:08:55,00:45:33,Details
+158,12,61,Jacob,Sven,SVW Triathlon,AK 55,02:31:01,00:28:32,01:09:57,00:46:43,Details
+159,20,564,Rommel,Thomas,Leipzig,AK 50,02:31:26,00:31:08,01:12:19,00:42:54,Details
+160,30,218,George,Philipp,TRIStars Markkleeberg e. V.,AK 35,02:31:36,00:30:25,01:12:42,00:44:57,Details
+161,20,497,Heinz,Matthias,Leipzig,AK 45,02:31:36,00:27:50,01:08:31,00:50:51,Details
+162,31,48,Streblow,Gunnar,Leipziger Triathlon e. V.,AK 35,02:31:38,00:30:26,01:03:04,00:54:14,Details
+163,21,508,Klopp,David,ERDINGER Active TEAM,AK 45,02:31:47,00:29:27,01:11:06,00:45:58,Details
+164,13,637,Koch,Michael,TSV Talheim,AK 55,02:31:50,00:28:10,01:13:45,00:45:13,Details
+165,34,330,Nitzsche,Maik,Leipzig,AK 40,02:31:55,00:28:09,01:12:47,00:46:03,Details
+166,35,744,Barrios Cueto,Rafael,Triathon Crew Berlin,AK 40,02:31:56,00:26:57,01:14:42,00:45:00,Details
+167,25,2,Prietz,Antonio,ASV Zeuthen,AK 30,02:31:57,00:29:44,01:08:59,00:48:15,Details
+168,32,705,Samland,Thomas,SG Adelsberg,AK 35,02:31:59,00:28:03,01:13:57,00:44:53,Details
+169,14,264,Schneider,Felix,SG Chemie Bitterfeld e. V.,AK 25,02:32:00,00:27:31,01:07:14,00:51:35,Details
+170,36,601,Holtz,Stefan,DHfK Leipzig 100kg +,AK 40,02:32:04,00:25:06,01:10:28,00:50:04,Details
+171,26,741,Staudt,Jonathan,RTI Automation,AK 30,02:32:07,00:30:07,01:11:33,00:45:07,Details
+172,8,254,Starke,Ron,TRIStars Markkleeberg e. V.,AK 20,02:32:15,00:25:10,01:14:37,00:47:40,Details
+173,33,623,Trojahn,Marwig,Athletico Leipzig e. V.,AK 35,02:32:32,00:31:49,01:10:47,00:44:09,Details
+174,37,353,Partzsch,Christian,Döbelner SV05,AK 40,02:32:46,00:30:14,01:13:06,00:44:33,Details
+175,34,68,Lange,Paul,SV Tri City Darmstadt,AK 35,02:32:46,00:30:28,01:11:10,00:45:41,Details
+176,15,450,Clauß,Anton,TV Dresden e. V.,AK 25,02:32:46,00:25:09,01:16:58,00:45:18,Details
+177,38,701,Seifert,Mathias,Hoyerswerda,AK 40,02:32:46,00:33:00,01:12:06,00:42:54,Details
+178,35,352,Scharnowski,Sven,Leipzig,AK 35,02:32:52,00:24:09,01:16:11,00:47:26,Details
+179,14,281,Fischer,Ralf,LATV Plauen,AK 55,02:32:58,00:28:23,01:14:46,00:45:35,Details
+180,39,169,Seifert,Ralf,Team Sirius Europe,AK 40,02:33:00,00:27:18,01:11:07,00:49:34,Details
+181,40,16,Pätz,Markus,Power&Pace,AK 40,02:33:34,00:37:48,01:09:38,00:41:48,Details
+182,41,621,Holtz,Jan,SC DHfK Leipzig e. V.,AK 40,02:33:36,00:27:37,01:08:36,00:50:51,Details
+183,15,93,Schrod,Alexander,VFS Rödermark,AK 55,02:33:40,00:28:22,01:14:12,00:45:44,Details
+184,42,434,Hopf,Stephan,Leipzig,AK 40,02:33:44,00:26:14,01:12:45,00:49:16,Details
+185,9,576,Hein,Paul,Leipzig,AK 20,02:33:53,00:27:59,01:16:07,00:44:46,Details
+186,22,225,Bachmann,Dirk,SV Sachsen 90 Werdau e. V. Triteam,AK 45,02:33:59,00:29:26,01:13:13,00:46:44,Details
+187,27,560,Cimiotti,Bastian,Lörrach,AK 30,02:34:16,00:29:34,01:11:16,00:48:02,Details
+188,16,108,Heyder,Karsten,TRI-Sport Wurzen e. V.,AK 55,02:34:18,00:26:54,01:12:00,00:50:14,Details
+189,43,224,Bieling,Patrick,Athletico Leipzig e. V.,AK 40,02:34:25,00:29:08,01:12:42,00:46:53,Details
+190,44,26,Kaiser,Marco,Triathlon Jena e. V.,AK 40,02:34:38,00:27:49,01:13:52,00:48:29,Details
+191,21,256,Koschine,Michael,TRIStars Markkleeberg e. V.,AK 50,02:34:50,00:24:51,01:12:51,00:52:07,Details
+192,17,269,Topp-Knipping,Heribert,power & pace,AK 55,02:34:54,00:30:38,01:08:04,00:50:40,Details
+193,45,555,Wya,Marco,LG Gerstenmalz,AK 40,02:34:57,00:29:05,01:13:50,00:47:30,Details
+194,18,300,Unverzagt,Guido,Athletico Leipzig e. V.,AK 55,02:34:59,00:32:34,01:12:35,00:42:59,Details
+195,46,18,Mächtig,Lars,SG Chemie Zeitz e. V.,AK 40,02:35:05,00:31:38,01:13:31,00:45:36,Details
+196,19,376,Weber,Ingo,TSV Eisenberg,AK 55,02:35:17,00:30:04,01:10:49,00:47:45,Details
+197,20,178,Götze,Mike,Athletico Leipzig e. V.,AK 55,02:35:18,00:25:09,01:11:28,00:53:00,Details
+198,36,419,Remler,Daniel,Stahlrenner,AK 35,02:35:24,00:29:09,01:15:15,00:46:10,Details
+199,21,200,Sauder,Mario,Zeppelin Team OSC Potsdam,AK 55,02:35:26,00:25:04,01:14:34,00:51:30,Details
+200,37,448,Hartmann,Tobias,SC DHfK Leipzig e. V.,AK 35,02:35:41,00:31:31,01:13:08,00:45:34,Details
+201,47,139,Haring,Tino,TEHA Endurance Group,AK 40,02:35:41,00:28:25,01:12:24,00:49:30,Details
+202,2,377,Clauß,Steffen,Moritzburger Triathlonverein e. V.,AK 60,02:35:42,00:30:44,01:12:19,00:46:55,Details
+203,38,494,Acke,Sebastian,Elsnig,AK 35,02:35:58,00:29:13,01:09:04,00:52:31,Details
+204,39,524,Kühn,Philipp,Penig,AK 35,02:36:05,00:33:02,01:08:10,00:49:35,Details
+205,10,520,Kutschke,Nick,Bautzener LV Rot-Weiß 90 e. V.,AK 20,02:36:09,00:28:56,01:16:34,00:44:57,Details
+206,40,323,Hellmich,Felix,Leipzig,AK 35,02:36:16,00:30:36,01:07:49,00:52:47,Details
+207,16,662,Keller,Justus,FSV Blau-Weiß Wermsdorf,AK 25,02:36:28,00:32:55,01:13:08,00:44:16,Details
+208,23,57,Perl,Patrick,TVDÄ,AK 45,02:36:39,00:30:59,01:14:47,00:45:04,Details
+209,48,257,Eifert,Nicky,Leipzig,AK 40,02:36:47,00:31:02,01:11:59,00:48:23,Details
+210,11,779,Behrens,Hendrik,Leipzig,AK 20,02:36:51,00:33:59,01:17:10,00:42:06,Details
+211,22,562,Salbert,Dirk,SC DHfK Leipzig e. V.,AK 55,02:37:00,00:29:42,01:14:31,00:45:37,Details
+212,49,185,Fabig,Stefan,LG eXa Leipzig e. V.,AK 40,02:37:02,00:29:21,01:11:01,00:51:47,Details
+213,23,220,Democh,Christoph,HSV Weimar Triathlon,AK 55,02:37:09,00:28:30,01:15:08,00:48:50,Details
+214,22,153,Staub,Patrick,Athletico Leipzig e. V.,AK 50,02:37:10,00:27:07,01:17:54,00:47:10,Details
+215,17,261,Meister,Marco,Nüsser Frönde,AK 25,02:37:14,00:30:11,01:12:52,00:48:10,Details
+216,41,667,Oertel,Christoph,Leipzig,AK 35,02:37:16,00:32:52,01:11:55,00:47:37,Details
+217,50,507,Weber,Thomas,Radsportteam Lautergold Hartenstein,AK 40,02:37:20,00:33:29,01:09:18,00:49:30,Details
+218,23,216,Lochner,Steffen,LTV Obereichsfeld. Südharzer Laufshopteam,AK 50,02:37:27,00:26:54,01:12:24,00:52:55,Details
+219,28,558,Weiss,Patrick,Leipzig,AK 30,02:37:27,00:32:51,01:08:26,00:50:33,Details
+220,24,212,Schiel,Andreas,LRV Weißenfels,AK 45,02:37:33,00:28:37,01:16:51,00:46:16,Details
+221,24,271,Altenkirch,Volker,DLRG Luckenwalde,AK 55,02:37:41,00:27:37,01:13:52,00:51:38,Details
+222,25,90,Lenke,Ferenc,TSV Talheim,AK 55,02:37:53,00:33:45,01:12:13,00:46:16,Details
+223,25,525,Döring,Christian,Leipzig,AK 45,02:37:56,00:27:05,01:13:43,00:51:09,Details
+224,51,459,Fischer,Martin,Rakete Frohsinn,AK 40,02:37:58,00:28:44,01:16:21,00:47:42,Details
+225,26,461,Kögel,Timo,TSV Eisenberg,AK 55,02:38:06,00:31:23,01:11:58,00:50:20,Details
+226,3,366,Kaiser,Andreas,LTV Obereichsfeld e. V.,AK 60,02:38:08,00:31:33,01:14:29,00:45:55,Details
+227,4,85,Dinse,Martin,SC DHfK Leipzig e. V.,AK 60,02:38:15,00:27:58,01:12:12,00:52:49,Details
+228,52,490,Nitschmann,Remo,neuelaufkultur,AK 40,02:38:22,00:29:20,01:14:13,00:49:08,Details
+229,29,704,Gronowski,Jasper,Leipzig,AK 30,02:38:28,00:31:19,01:15:50,00:46:03,Details
+230,53,92,Duschek,Christian,ERDINGER Active TEAM,AK 40,02:38:29,00:32:02,01:09:20,00:52:05,Details
+231,42,197,Berger,Daniel,SC Chemnitz Triathlon,AK 35,02:38:31,00:27:04,01:14:11,00:52:38,Details
+232,18,332,Seidler,Maximilian,Leipzig,AK 25,02:38:36,00:25:33,01:19:31,00:47:26,Details
+233,24,471,Wirl,Enrico,Bitterfelder Schwimmverein 1990,AK 50,02:38:50,00:26:19,01:19:16,00:47:03,Details
+234,26,193,Schubert,Markus,SC DHfK Leipzig e. V.. Triathlon,AK 45,02:38:59,00:25:38,01:10:02,00:57:37,Details
+235,27,360,Voigt,Daniel,Burgstädt,AK 45,02:39:00,00:28:52,01:15:52,00:48:18,Details
+236,5,475,Hoffmann,Frank,Rennsteiglaufverein,AK 60,02:39:07,00:25:47,01:17:29,00:50:39,Details
+237,30,89,Greipel,Tim,Moritzburger Triathlonverein e. V.,AK 30,02:39:25,00:32:23,01:19:09,00:43:31,Details
+238,31,755,Thomas,Nico,Eilenburg,AK 30,02:39:26,00:30:24,01:22:18,00:41:21,Details
+239,25,584,Huber,Peter,TSV Karlstadt Triathlon,AK 50,02:39:26,00:33:48,01:11:05,00:49:05,Details
+240,43,86,Martin,Uwe,Team München e. V.,AK 35,02:39:28,00:28:12,01:10:43,00:52:01,Details
+241,44,696,Karnstedt,Fabian,Südharzer Laufshop Team,AK 35,02:39:35,00:32:21,01:14:37,00:46:49,Details
+242,6,538,Wehlitz,Alexander,Torgau,AK 60,02:39:37,00:33:22,01:11:38,00:47:39,Details
+243,12,319,Liese,Armin,Dessau-Roßlau,AK 20,02:39:54,00:34:40,01:11:59,00:47:53,Details
+244,54,577,Sachse,Maik,TRI-Sport Wurzen e. V.,AK 40,02:39:55,00:33:40,01:11:11,00:48:49,Details
+245,32,731,Eberwein,Tim,Leipzig,AK 30,02:39:58,00:29:05,01:15:33,00:50:35,Details
+246,55,145,Altenburger,Martin,Trifun,AK 40,02:40:20,00:33:53,01:12:51,00:47:08,Details
+247,19,788,Bertsch,Cedric,Vilgertshofen,AK 25,02:40:21,00:35:27,01:16:24,00:43:36,Details
+248,26,472,Helbing,Sören,Hohndorf,AK 50,02:40:28,00:30:31,01:16:05,00:48:31,Details
+249,56,415,Müller,Christoph,SV Rot-Weiß Wiehe,AK 40,02:40:31,00:30:28,01:15:41,00:49:01,Details
+250,57,309,Hergert,Daniel,Aichwald,AK 40,02:40:34,00:29:21,01:14:45,00:51:39,Details
+251,58,393,Lehnert,Tobias,Lutherstadt Eisleben,AK 40,02:41:00,00:31:17,01:11:53,00:52:08,Details
+252,20,688,Hes,Krystof,Dresden,AK 25,02:41:00,00:28:22,01:18:20,00:47:53,Details
+253,21,231,Becker,Marius,TV Dresden e. V.,AK 25,02:41:09,00:30:04,01:16:34,00:49:50,Details
+254,28,387,Stöckel,Jens,LFV Oberholz e. V.,AK 45,02:41:10,00:34:48,01:12:03,00:48:36,Details
+255,59,155,Hiersemann,Martin,STV Limbach-Oberfrohna,AK 40,02:41:29,00:29:23,01:12:05,00:54:25,Details
+256,60,396,Achilles,Patrick,Leipzig,AK 40,02:41:49,00:35:26,01:14:44,00:47:01,Details
+257,45,565,Petzer,Steven,ASSELN E.C. BRAUNSCHWEIG,AK 35,02:41:54,00:38:16,01:12:15,00:46:38,Details
+258,61,59,Böwe,Denny,Bernauer Lauffreunde,AK 40,02:41:56,00:33:41,01:14:28,00:48:26,Details
+259,62,416,Thiele,Alexander,Zschopau,AK 40,02:42:01,00:34:45,01:18:23,00:42:17,Details
+260,29,284,Pagel,Norman,SISU Berlin,AK 45,02:42:26,00:31:43,01:14:14,00:49:46,Details
+261,63,25,Höpping,Stefan,VfB Torpedo Ichtershausen,AK 40,02:42:29,00:34:38,01:19:29,00:43:19,Details
+262,46,489,Seelig,André,Laufen verbindet Leipzig,AK 35,02:42:37,00:35:42,01:10:45,00:48:02,Details
+263,27,777,Spies,Wolfgang,TSV Karlstadt,AK 50,02:42:42,00:31:00,01:16:08,00:49:49,Details
+264,64,453,Urbanek,Björn,Sportclub Rosalöwen e. V.,AK 40,02:42:43,00:28:36,01:21:45,00:45:44,Details
+265,47,516,Iwan,Jens,hang loose,AK 35,02:42:56,00:38:36,01:10:36,00:48:54,Details
+266,65,370,Riemer,Michael,Leipzig,AK 40,02:42:59,00:30:51,01:16:06,00:51:01,Details
+267,28,66,Ader,Gunter,Radebeul,AK 50,02:43:09,00:34:15,01:13:55,00:47:37,Details
+268,22,768,Gronowski,Titus Joost,Leipzig,AK 25,02:43:10,00:33:10,01:16:04,00:46:53,Details
+269,23,476,Stiehler,Hannes,München,AK 25,02:43:14,00:38:06,01:11:53,00:47:19,Details
+270,66,778,Michels,Felix,Winsen (Luhe),AK 40,02:43:23,00:31:16,01:15:56,00:51:33,Details
+271,33,650,Pitzschel,Phillip,Leipzig,AK 30,02:43:25,00:29:48,01:16:17,00:50:51,Details
+272,24,614,Damjakob,David,Berlin,AK 25,02:43:25,00:40:59,01:12:04,00:43:54,Details
+273,27,463,Glatz,Holger,ERDINGER Active TEAM,AK 55,02:43:31,00:35:20,01:12:56,00:46:42,Details
+274,34,674,Will,Benjamin,Leipzig,AK 30,02:43:44,00:33:30,01:14:34,00:49:05,Details
+275,30,196,Münnich,Sebastian,MSV Tripoint Ffo.,AK 45,02:44:11,00:27:30,01:18:56,00:51:06,Details
+276,7,519,Schlender,Axel,VfL Winterbach,AK 60,02:44:14,00:25:30,01:17:36,00:55:41,Details
+277,67,581,Engelmann,Jens,neuelaufkultur,AK 40,02:44:16,00:27:31,01:10:37,01:01:08,Details
+278,31,749,Kraft,Torsten,SV Sachsen 90 Triteam,AK 45,02:44:16,00:28:20,01:20:04,00:51:31,Details
+279,32,75,Krauß,Nico,STV Limbach-Oberfrohna e. V.,AK 45,02:44:18,00:28:19,01:13:33,00:56:59,Details
+280,68,473,Reimer,Pawel,SC DHfK Leipzig e. V.,AK 40,02:44:21,00:30:37,01:15:41,00:51:39,Details
+281,28,122,Kühne,Holger,LTV Obereichsfeld e. V.. Südharzer Laufshopteam,AK 55,02:44:35,00:25:57,01:15:29,00:56:36,Details
+282,13,648,Kreitmeier,Florian,SV Blau-Rot Pratau e. V. Abt. Judo,AK 20,02:44:41,00:41:55,01:10:23,00:46:16,Details
+283,48,325,Weißbach,Marc,Triathlon Krostitz,AK 35,02:44:55,00:38:32,01:16:13,00:45:57,Details
+284,25,414,Schliebener,Jan,VfB Oedelum,AK 25,02:44:59,00:31:18,01:15:38,00:51:45,Details
+285,35,551,Wippich,Felix Maximilian,Potsdam,AK 30,02:45:11,00:31:25,01:15:10,00:50:04,Details
+286,49,694,Jahn,Sören,TRI-Sport Wurzen e. V.,AK 35,02:45:19,00:31:01,01:20:29,00:46:20,Details
+287,50,776,Goldammer,Martin,Soester Triteam,AK 35,02:45:27,00:33:05,01:14:17,00:52:41,Details
+288,1,40,Kunze,Harald,Schkopau,AK 65,02:45:31,00:27:13,01:15:04,00:57:46,Details
+289,51,358,Müller,John-Philipp,SV Aufbau Entwurf Leipzig,AK 35,02:45:34,00:30:25,01:18:46,00:51:33,Details
+290,69,561,Theile,Christian,Leipzig,AK 40,02:45:36,00:28:02,01:22:26,00:48:06,Details
+291,36,449,Ohse,Martin,Röthaer Räuber,AK 30,02:45:38,00:29:06,01:15:13,00:56:14,Details
+292,37,598,Heidrich,Dario,Chemnitz,AK 30,02:45:46,00:32:03,01:22:32,00:44:53,Details
+293,52,481,Scholz,Micha,Leipzig,AK 35,02:45:50,00:34:14,01:10:58,00:53:04,Details
+294,38,488,Franz,Robert,Dabei ist alles !!,AK 30,02:45:56,00:38:17,01:12:30,00:50:42,Details
+295,26,348,Kleszczewski,Jakub,Erkner,AK 25,02:46:03,00:36:15,01:15:10,00:48:18,Details
+296,53,646,Boy,Frank,F.C. Hansa Rostock,AK 35,02:46:07,00:31:51,01:12:49,00:56:06,Details
+297,29,250,Seidel,Torsten,SV Neptun 08 Finsterwalde,AK 50,02:46:28,00:32:34,01:18:33,00:50:53,Details
+298,33,180,Krause,Torben,DLRG Luckenwalde,AK 45,02:46:34,00:37:12,01:13:17,00:49:38,Details
+299,70,397,Dietze,André,Power & Pace,AK 40,02:46:39,00:28:56,01:18:45,00:52:06,Details
+300,30,649,Spröte,Jens,Leipzig,AK 50,02:46:44,00:32:42,01:18:18,00:49:07,Details
+301,39,678,Borchard,Janes,Squadra Veloce,AK 30,02:46:45,00:34:08,01:12:44,00:53:44,Details
+302,29,799,Steikert,Holger,Leipzig,AK 55,02:46:53,00:31:46,01:19:49,00:50:23,Details
+303,54,683,Vierheilig,Alexander,Leipzig,AK 35,02:46:56,00:30:43,01:18:24,00:50:15,Details
+304,27,786,Wiltzsch,Luis,Northwave,AK 25,02:46:58,00:34:08,01:17:53,00:49:06,Details
+305,71,608,Bartels,Ricardo,Berlin H3,AK 40,02:47:02,00:34:28,01:12:55,00:53:41,Details
+306,30,492,Kuchinke,Christoph,Eishockey Club Hell oder Dunkel Berlin 99 e. V.,AK 55,02:47:05,00:28:17,01:19:30,00:51:20,Details
+307,31,585,Müller,Andreas,Verein für Ausdauersport endLOS Dresden e. V.,AK 50,02:47:09,00:30:30,01:14:19,00:57:20,Details
+308,72,97,Straach,Stefan,Radteam Neu-Isenburg,AK 40,02:47:14,00:34:47,01:12:47,00:55:37,Details
+309,34,651,Esche,Marko,Starke Leistung,AK 45,02:47:23,00:32:33,01:12:09,00:56:56,Details
+310,40,390,Kirchner,Christian,GISA Runners,AK 30,02:47:27,00:40:08,01:17:38,00:43:48,Details
+311,55,627,Steuer,Nicholas,Schifferstadt,AK 35,02:47:33,00:30:24,01:16:52,00:55:11,Details
+312,32,329,Ahnert,Sven,DerZwenni,AK 50,02:47:39,00:28:39,01:19:48,00:54:32,Details
+313,73,381,Seidl,Sven,3#irons,AK 40,02:47:46,00:30:25,01:16:10,00:53:36,Details
+314,28,531,Wigger,Roman,Berlin,AK 25,02:47:48,00:36:21,01:15:03,00:51:16,Details
+315,56,764,Fischer,Arne,Leipzig,AK 35,02:47:52,00:29:48,01:20:53,00:51:32,Details
+316,74,658,Ottlinger,René,SG Leipzig-Bienitz,AK 40,02:47:55,00:33:10,01:20:05,00:48:58,Details
+317,33,505,Otto,Torsten,Leipzig,AK 50,02:47:56,00:30:37,01:18:41,00:52:11,Details
+318,57,626,Schiefer,Conrad,Markkleeberg,AK 35,02:47:56,00:31:26,01:20:13,00:49:34,Details
+319,58,679,Kalmring,Florian,Otterbande,AK 35,02:48:10,00:32:49,01:21:25,00:47:51,Details
+320,31,503,Reusch,Stefan,Reckendorfer Schlossbrauer,AK 55,02:48:13,00:26:12,01:14:23,01:02:21,Details
+321,32,399,Kostka,Jürgen,1. SRC,AK 55,02:48:13,00:27:42,01:18:28,00:56:11,Details
+322,75,684,Haupt,Eric,SV Lauterbach/Erzgebirge e. V.,AK 40,02:48:20,00:39:25,01:14:32,00:48:49,Details
+323,33,486,Lemke,Thomas,Markranstädt,AK 55,02:48:31,00:28:38,01:21:12,00:51:17,Details
+324,41,34,Czarnecki,Friedrich,Leipziger Triathlon e. V.,AK 30,02:48:35,00:32:31,01:19:58,00:49:09,Details
+325,42,344,Kampa,Martin,Hermes Arzneimittel,AK 30,02:48:37,00:30:42,01:14:33,00:58:01,Details
+326,43,605,Hölting,Philipp,Leipzig,AK 30,02:48:57,00:29:08,01:15:16,00:58:41,Details
+327,59,305,Redlich,Christian,1337,AK 35,02:48:58,00:28:40,01:19:23,00:55:53,Details
+328,34,115,Eichardt,Holger,LRV Weißenfels,AK 50,02:49:16,00:33:57,01:21:39,00:49:00,Details
+329,60,643,Seifert,Stephan,BEFA Team,AK 35,02:49:26,00:38:13,01:13:44,00:51:24,Details
+330,76,499,Diesel,Martin,BEFA Team,AK 40,02:49:26,00:34:26,01:18:01,00:51:31,Details
+331,44,82,Bianucci,Tommaso,Freestyle Triathlon Valdinievole,AK 30,02:49:33,00:25:17,01:20:10,00:58:42,Details
+332,45,548,Singer,Jakob,Baywatch Leipzig,AK 30,02:49:42,00:34:23,01:19:09,00:50:45,Details
+333,35,740,Schermer,Ulf,SSV Hoyerswerda,AK 50,02:49:47,00:29:47,01:15:22,00:57:19,Details
+334,61,750,Schneider,Martin,Team SchneiderTrio,AK 35,02:49:48,00:35:46,01:20:01,00:48:14,Details
+335,34,596,Satzky,Heiko,de Heidehopper,AK 55,02:49:57,00:27:46,01:17:16,00:58:25,Details
+336,35,619,Bayer,Markus,Leipzig,AK 45,02:50:00,00:34:28,01:18:28,00:51:12,Details
+337,14,670,Hösel,Albrecht,Dresden,AK 20,02:50:10,00:35:08,01:17:08,00:52:07,Details
+338,36,760,Thomas,Michael,Struppen,AK 45,02:50:21,00:38:58,01:18:17,00:47:00,Details
+339,77,410,Block,Alexander,Berlin,AK 40,02:50:27,00:34:22,01:20:54,00:47:26,Details
+340,78,138,Kubitzek,Martin,TSV Heiligenrode,AK 40,02:50:27,00:32:48,01:18:21,00:52:45,Details
+341,8,137,Klingner,Jörg,Berlin-Chemie Adlershof,AK 60,02:50:29,00:34:58,01:14:38,00:54:10,Details
+342,29,775,Vodde,Steffen,Tülau,AK 25,02:50:41,00:37:37,01:21:06,00:46:11,Details
+343,46,363,Rösel,Christian,TRIStars Markkleeberg e. V.,AK 30,02:50:42,00:29:06,01:18:34,00:57:54,Details
+344,35,613,Hübscher,Detlef,Leipzig,AK 55,02:50:55,00:34:19,01:15:30,00:52:53,Details
+345,36,435,Müller,Hendrik,Wasserballett feuchte Nixen,AK 55,02:51:22,00:29:23,01:18:34,00:57:33,Details
+346,62,706,Döge,Thomas,Dynamo Südstadt,AK 35,02:51:24,00:34:19,01:15:05,00:54:59,Details
+347,79,602,Riedel,Mathias,LG Gerstenmalz,AK 40,02:51:25,00:27:46,01:25:38,00:52:41,Details
+348,37,664,Hofmann,Marcus,Chemnitz,AK 55,02:51:32,00:32:21,01:18:52,00:52:07,Details
+349,30,781,Spröte,Enrico,Leipzig,AK 25,02:51:33,00:29:20,01:21:42,00:55:14,Details
+350,36,794,Kröhnert,Steffen,RCB Bonn,AK 50,02:51:50,00:32:07,01:19:04,00:54:13,Details
+351,63,563,Andrae,Sebastian,Leipzig,AK 35,02:52:03,00:33:59,01:22:31,00:49:17,Details
+352,64,424,Schleinitz,Felix,Stahlrenner,AK 35,02:52:03,00:36:20,01:20:22,00:49:24,Details
+353,38,347,Mehner,Thomas,Taucha,AK 55,02:52:04,00:36:31,01:15:23,00:53:05,Details
+354,9,84,Hellhund,Ralf,KCR Sindlingen Triathlon,AK 60,02:52:06,00:36:10,01:16:02,00:54:00,Details
+355,65,611,Scheffler,Thomas,SV Viktoria Einsiedel,AK 35,02:52:06,00:32:12,01:25:31,00:48:28,Details
+356,31,544,Aldrich,Joshua Aaron,Leipzig,AK 25,02:52:13,00:31:52,01:24:27,00:47:31,Details
+357,37,470,Aumann,Christian,Naumburg,AK 50,02:52:22,00:32:41,01:18:29,00:55:06,Details
+358,15,267,Jacobs,Luis,Nüsser Frönde,AK 20,02:52:28,00:32:12,01:14:40,00:59:48,Details
+359,10,571,Hess,Joachim,KCR Sindlingen Triathlon,AK 60,02:52:46,00:29:02,01:22:48,00:54:15,Details
+360,37,582,Stellmacher,Sebastian,Freital,AK 45,02:52:51,00:22:48,01:16:14,01:07:32,Details
+361,32,639,Olthoff,Stefan,Bunte Truppe,AK 25,02:52:52,00:29:13,01:17:45,00:59:39,Details
+362,11,160,Pöschmann,Roland,TC Fiko Rostock,AK 60,02:52:54,00:36:01,01:19:45,00:48:42,Details
+363,39,413,Liebing,Mario,Hier ist Borna. Hier ist Liebing.,AK 55,02:52:58,00:36:51,01:20:25,00:50:08,Details
+364,38,274,Neumann,Martin,Triathlon Team Göppingen,AK 45,02:53:04,00:34:12,01:19:39,00:53:33,Details
+365,80,371,Wippel,André,Burgstädt,AK 40,02:53:08,00:38:33,01:14:52,00:54:38,Details
+366,33,622,Stumpf,Tobias,Leipzig,AK 25,02:53:24,00:36:39,01:16:28,00:54:16,Details
+367,66,427,Sturm,Falko,Stahlrenner,AK 35,02:53:37,00:34:54,01:21:00,00:51:47,Details
+368,34,710,Reinhold,Dawid,Leipzig,AK 25,02:53:48,00:32:08,01:17:29,00:58:02,Details
+369,67,787,Römer,Christoph,Mittweida,AK 35,02:53:52,00:39:45,01:18:53,00:49:06,Details
+370,35,774,Bätje,Julian Martin,Wolfsburg,AK 25,02:54:04,00:30:31,01:21:26,00:55:51,Details
+371,38,597,Salbert,Guido,SV Liebertwolkwitz,AK 50,02:54:14,00:31:43,01:26:26,00:48:33,Details
+372,39,275,Reinhardt,Heino,Artiva Sports,AK 45,02:54:31,00:36:30,01:14:18,00:58:11,Details
+373,39,726,Buttgereit,Heiko,TriTeam A&H - Leipzig,AK 50,02:54:34,00:28:09,01:20:29,00:58:10,Details
+374,68,288,Dachs,Meik,Athletico Leipzig e. V.,AK 35,02:54:40,00:24:50,01:27:30,00:57:13,Details
+375,81,526,Kießling,Gerald,SC DHfK Leipzig e. V.,AK 40,02:54:43,00:33:48,01:12:57,01:00:14,Details
+376,82,436,Strangfeld,Martin,Radebeul,AK 40,02:54:44,00:35:56,01:17:54,00:53:26,Details
+377,47,361,Bredner,Martin,Zwenkau,AK 30,02:54:51,00:38:24,01:12:54,00:56:02,Details
+378,83,680,Graul,Falko,Tischtennis SV Borsdorf,AK 40,02:54:56,00:38:38,01:17:23,00:51:42,Details
+379,36,378,Wink,Christopher,Leipzig,AK 25,02:55:02,00:34:32,01:19:46,00:51:40,Details
+380,48,356,Guhr,Steve,Leipzig,AK 30,02:55:09,00:36:14,01:20:36,00:52:57,Details
+381,69,412,Klose,Nico,Flamingobeine,AK 35,02:55:30,00:34:16,01:15:14,00:59:31,Details
+382,70,367,Becker,Sebastian,Blankenburg,AK 35,02:55:31,00:38:04,01:19:00,00:48:25,Details
+383,84,609,Grabow,Holger,Kegelsportverein Treuenbrietzen e. V.,AK 40,02:55:36,00:41:32,01:15:15,00:52:31,Details
+384,85,635,Hebestreit,Christian,Leipzig,AK 40,02:55:56,00:34:16,01:17:42,00:57:44,Details
+385,71,418,Kunstmann,Robert,Leipzig,AK 35,02:55:57,00:34:03,01:20:09,00:55:25,Details
+386,40,191,Kafka,Jens,Moritzburger Triathlonverein e. V.,AK 55,02:56:03,00:38:35,01:17:19,00:54:44,Details
+387,40,369,Lorenz,Dirk,Marathon Club Glauchau,AK 50,02:56:16,00:36:44,01:20:51,00:49:58,Details
+388,72,556,Schwarzer,Robin,Zwenkau,AK 35,02:56:26,00:30:46,01:21:16,00:55:49,Details
+389,73,341,Lindau,Dirk,Coallakers,AK 35,02:56:31,00:39:22,01:22:26,00:48:23,Details
+390,86,233,Zimmermann,Christian,,AK 40,02:56:43,00:35:18,01:13:21,00:57:42,Details
+391,87,322,Schneider,Daan Peer,Leipzig,AK 40,02:56:51,00:35:59,01:25:18,00:48:53,Details
+392,49,417,Niemeyer,Dennis,Braunschweig,AK 30,02:57:01,00:39:30,01:18:33,00:53:13,Details
+393,12,693,Bürgelt,Frank,Moritzburger TV,AK 60,02:57:04,00:29:26,01:21:22,00:59:01,Details
+394,37,767,Krahnert,Max,Leipzig,AK 25,02:57:13,00:32:54,01:18:17,00:56:50,Details
+395,38,342,Pfotenhauer,Paul,Leipzig,AK 25,02:57:16,00:38:38,01:23:15,00:49:41,Details
+396,13,401,Altenburger,Ronald,Neubiberg,AK 60,02:57:24,00:29:25,01:20:52,00:58:28,Details
+397,40,762,Grimmer,Matthias,Koala Running Team,AK 45,02:57:32,00:38:30,01:17:49,00:54:43,Details
+398,41,681,Hoffmann,Stephan,Dresden,AK 50,02:57:37,00:38:36,01:20:49,00:51:27,Details
+399,88,135,Maiwald,Alexander,TriathlonFreunde Wittenberg e. V.,AK 40,02:57:43,00:34:05,01:25:24,00:50:04,Details
+400,89,407,Struthmann,Thomas,LTV Obereichsfeld e. V.,AK 40,02:57:43,00:39:19,01:17:18,00:55:14,Details
+401,42,104,Kleinschmidt,Uwe,KCR Sindlingen Triathlon,AK 50,02:57:59,00:28:56,01:18:00,01:04:13,Details
+402,43,738,Wronski,Torsten,Berlin,AK 50,02:58:01,00:32:25,01:23:22,00:52:23,Details
+403,41,536,Frenzel,Christoph,Leipzig,AK 55,02:58:06,00:33:54,01:25:13,00:53:44,Details
+404,90,411,Weßner,Stefan,Wasserballett feuchte Nixen,AK 40,02:58:09,00:31:48,01:20:17,00:58:57,Details
+405,42,709,Leykam,Thomas,Kulmbach,AK 55,02:58:16,00:29:47,01:23:25,00:58:31,Details
+406,74,164,Arnold,Sebastian,SSV Blau-Weiß Gersdorf,AK 35,02:58:18,00:31:07,01:21:56,00:59:42,Details
+407,50,727,Krayl,Stefan,Berlin,AK 30,02:58:25,00:36:54,01:24:01,00:51:15,Details
+408,44,462,Geier,Stefan,Roth,AK 50,02:58:38,00:29:15,01:21:59,00:59:35,Details
+409,75,421,Benjamin,Steffen,Stahlrenner,AK 35,02:58:48,00:33:26,01:18:51,01:00:31,Details
+410,14,240,Anlauf,Norbert,Sv Tricity Darmstadt,AK 60,02:58:53,00:35:27,01:21:17,00:52:30,Details
+411,16,287,Mischke,Egon,Bautzener LV Rot-Weiß 90 e. V.,AK 20,02:59:15,00:34:38,01:22:06,00:56:01,Details
+412,51,721,Gronowski,Lauritz,Leipzig,AK 30,02:59:25,00:35:13,01:25:27,00:51:50,Details
+413,52,324,Mellendorf,Max,Chemnitz,AK 30,03:00:00,00:35:48,01:22:21,00:55:58,Details
+414,53,517,Teichler,Nils,Leipzig,AK 30,03:00:29,00:34:02,01:26:00,00:53:01,Details
+415,76,675,Berger,Daniel,Machern,AK 35,03:00:30,00:35:14,01:22:14,00:56:30,Details
+416,15,440,Krause,Knud,Berlin,AK 60,03:00:33,00:31:18,01:16:35,01:03:21,Details
+417,45,566,Sehm,Jan-Olaf,Dresden,AK 50,03:00:39,00:35:12,01:22:24,00:57:21,Details
+418,91,763,Weinert,Lars,Even Training,AK 40,03:00:47,00:35:06,01:20:58,00:58:36,Details
+419,77,593,Niestolik,Ken,Stresskompetenz.jetzt,AK 35,03:01:02,00:30:54,01:20:36,01:03:24,Details
+420,92,357,Heisig,Paul,athleticnetworks.com,AK 40,03:01:06,00:34:34,01:18:20,01:00:56,Details
+421,41,617,Groß,Manuel,Bunte Truppe,AK 45,03:01:07,00:33:51,01:18:24,01:02:41,Details
+422,78,373,Mühne,David,Flamingobeine,AK 35,03:01:24,00:37:21,01:24:04,00:55:05,Details
+423,43,692,Lange,Sven,Undenheim,AK 55,03:01:33,00:35:06,01:18:41,01:02:25,Details
+424,42,444,Wecke,Enrico,Leipzig,AK 45,03:01:39,00:35:50,01:19:17,00:58:44,Details
+425,79,498,Knauf,Falco,Magnet der Stahlrenner,AK 35,03:01:45,00:36:43,01:27:13,00:51:38,Details
+426,44,244,Höhne,Mario,TriathlonFreunde Wittenberg e. V.,AK 55,03:02:00,00:32:10,01:25:03,00:57:02,Details
+427,93,588,Pietsch,Martin,BSG Traktor Otterwisch,AK 40,03:02:05,00:41:53,01:15:14,00:58:39,Details
+428,54,711,Geisen,Jannik,Team beVegt.de,AK 30,03:02:10,00:33:57,01:23:48,00:55:36,Details
+429,80,574,Nestler,Christian,Markkleeberg,AK 35,03:02:25,00:35:37,01:20:35,00:59:10,Details
+430,45,699,Göpfarth,Rocco,TC Mia,AK 55,03:02:44,00:34:01,01:17:52,01:03:41,Details
+431,81,770,Guse,Christian,Magdeburg,AK 35,03:03:06,00:38:41,01:19:27,01:00:15,Details
+432,43,382,Kontofski,Rico,3#Irons,AK 45,03:03:15,00:32:17,01:25:50,00:57:25,Details
+433,39,304,Wellkamp,Till Jonas,Leipzig,AK 25,03:03:21,00:38:10,01:19:32,00:54:31,Details
+434,16,631,Kretschmer,Jörg,System-Kühlung,AK 60,03:03:23,00:38:13,01:23:41,00:56:34,Details
+435,44,689,Kollock,Ronny,Die KamiKatzen,AK 45,03:03:48,00:37:18,01:36:05,00:44:47,Details
+436,94,573,Kirsch,Patrick,FFW Lausen,AK 40,03:03:51,00:38:05,01:23:41,00:56:44,Details
+437,17,712,Jodoin,Niklas,Bengalische Tiger,AK 20,03:04:02,00:34:08,01:32:03,00:50:40,Details
+438,17,221,Wittke,Sigurd,SG Adelsberg,AK 60,03:04:06,00:39:44,01:18:58,00:59:06,Details
+439,46,318,Schega,Axel,Treuenbrietzen,AK 55,03:04:13,00:34:13,01:26:30,00:54:57,Details
+440,45,610,Kriebitzsch,Karsten,Cuba Libre,AK 45,03:04:17,00:36:05,00:00:00,01:00:24,Details
+441,46,78,Häusler,Heiko,LFV Oberholz e. V.,AK 50,03:04:25,00:42:39,01:20:36,00:55:06,Details
+442,47,633,Hoffmann,Thomas,TRIStars Markkleeberg e. V.,AK 50,03:04:27,00:38:06,01:22:33,00:57:08,Details
+443,48,634,Seeger,Kai,Feldhorst,AK 50,03:04:39,00:31:07,01:18:16,01:08:06,Details
+444,82,629,Dollinger,Benedikt,TEAM XALT,AK 35,03:04:42,00:34:32,01:19:39,01:04:13,Details
+445,83,798,Reissig,Benjamin,Leipzig,AK 35,03:04:54,00:36:31,01:28:40,00:53:37,Details
+446,46,392,Burghardt,Guido,Leipzig,AK 45,03:05:12,00:37:01,01:22:15,00:59:11,Details
+447,40,630,Schäffler,Marius,Kreisliga Legenden,AK 25,03:05:21,00:40:50,01:22:04,00:56:24,Details
+448,47,780,Machner,Norman,TC-Fiko,AK 45,03:05:23,00:48:30,01:21:17,00:47:43,Details
+449,48,729,Fischer,Stephan,Rakete Frohsinn,AK 45,03:05:24,00:30:33,01:22:37,01:05:08,Details
+450,18,632,Kockisch,Ingolf,Leipzig,AK 60,03:05:58,00:43:30,01:25:27,00:51:07,Details
+451,41,543,Strang,Joshua,Leipzig,AK 25,03:06:01,00:31:57,01:24:51,01:01:44,Details
+452,49,545,Worbach,Uwe,Bamberg,AK 50,03:06:24,00:36:24,01:22:51,00:59:20,Details
+453,19,282,Pflister,Torsten,Team FangtDasGnu e. V.,AK 60,03:07:07,00:33:23,01:22:34,01:04:20,Details
+454,95,690,Brockhagen,Sven,Taucha,AK 40,03:07:19,00:39:38,01:19:21,01:01:57,Details
+455,84,669,Borchard,Simon,Squadra Veloce,AK 35,03:07:37,00:38:41,01:23:05,01:00:11,Details
+456,47,298,Ziska,Steffen Gerhard,TV Dresden e. V.,AK 55,03:07:43,00:32:55,01:26:58,00:59:44,Details
+457,85,579,Schumacher,Kai,Stahlrenner,AK 35,03:07:49,00:32:35,01:26:59,01:01:24,Details
+458,96,149,Häußler,Sten,TC Fiko Rostock,AK 40,03:07:57,00:40:39,01:17:51,00:58:40,Details
+459,86,515,Altmann,Silvio,Stahlrenner,AK 35,03:08:08,00:40:47,01:27:17,00:54:35,Details
+460,87,578,Brückner,Eric,Leipzig,AK 35,03:08:08,00:40:26,01:20:15,01:00:19,Details
+461,55,785,Rauschenbach,Christian,Leipzig Süd,AK 30,03:08:11,00:44:05,00:00:00,00:55:44,Details
+462,20,161,Rudolf,Frank,ERDINGER Active TEAM,AK 60,03:08:16,00:38:58,01:17:51,01:04:30,Details
+463,50,354,Schmidt,Jörg,Markkleeberg,AK 50,03:08:19,00:34:25,01:21:30,01:04:10,Details
+464,21,773,Giesecke,Frank,TC Mers,AK 60,03:08:28,00:37:29,01:19:52,01:03:00,Details
+465,22,237,Thiede,Karsten,Triathlonfüchse Osterburg - Team Ultrasports,AK 60,03:08:38,00:34:10,01:15:01,01:13:16,Details
+466,48,372,Brückner,Thomas,TV Moritzburg,AK 55,03:08:50,00:41:39,01:22:16,00:56:21,Details
+467,56,509,Andrae,Maximilian,Rückenwind,AK 30,03:09:45,00:32:41,01:28:01,01:00:46,Details
+468,57,756,Hauber,Valentin,Leipzig,AK 30,03:09:48,00:37:06,01:33:23,00:51:30,Details
+469,49,313,Viehweg,Kay,Wurzen,AK 55,03:10:13,00:43:11,01:18:38,01:02:04,Details
+470,88,134,Drescher,Lars,Team Erdinger Alkoholfrei/TV Dresden e. V.,AK 35,03:10:43,00:35:13,01:25:58,01:03:07,Details
+471,50,162,Zänker,Jürgen,SSV Eisleben,AK 55,03:10:44,00:36:40,01:20:50,01:06:12,Details
+472,58,797,Siebert,Oliver,Leipzig,AK 30,03:11:09,00:32:34,01:28:32,00:59:42,Details
+473,18,713,Ortlieb,Jakob,Halle (Saale),AK 20,03:11:20,00:33:52,01:29:09,00:59:49,Details
+474,89,655,Keppner,Tobias,SG Birkungen,AK 35,03:11:27,00:35:09,01:36:03,00:55:26,Details
+475,49,388,Großer-Koch,Norman,PSV Leipzig e. V.,AK 45,03:11:34,00:33:55,01:23:47,01:05:04,Details
+476,90,426,Remler,Martin,Stahlrenner,AK 35,03:12:00,00:34:20,01:27:56,01:02:58,Details
+477,23,612,Neumann,Michael,Kabelsketal,AK 60,03:12:07,00:31:22,01:24:47,01:07:29,Details
+478,51,398,Scharr,Sven,Leipzig,AK 55,03:12:14,00:31:08,01:15:31,01:15:06,Details
+479,91,546,Jäckle,David,Team Frutti,AK 35,03:12:54,00:31:40,01:30:43,00:59:44,Details
+480,97,425,Zeuner,Steffen,Leipziger Mountainbiker,AK 40,03:13:10,00:48:01,01:14:23,01:02:55,Details
+481,24,539,Westpfahl,Rainer,SV Wasserfreunde Brandenburg,AK 60,03:14:05,00:46:41,01:14:37,01:06:17,Details
+482,2,198,Winkler,Thomas,DLRG Luckenwalde,AK 65,03:14:08,00:33:53,01:32:08,00:58:34,Details
+483,3,748,Griese,Püppi,Schorndorf,AK 65,03:14:17,00:35:02,01:26:43,01:05:35,Details
+484,50,528,Bager,Jan,Leipzig,AK 45,03:14:26,00:41:00,01:18:04,01:07:15,Details
+485,92,753,Wehlitz,Robert,Leipzig,AK 35,03:14:39,00:37:04,01:26:07,01:04:37,Details
+486,51,47,Dahms,Christian,SC DHfK Leipzig e. V.,AK 45,03:15:12,00:31:02,01:26:08,01:11:23,Details
+487,52,351,Güssmer,Stefan,Fantiröh Leipzig,AK 45,03:15:31,00:46:52,01:26:53,00:53:40,Details
+488,93,113,Dickert,Philipp,Chemnitz,AK 35,03:15:54,00:39:21,01:22:03,01:06:19,Details
+489,53,618,Hempel,Mirek,Leipzig,AK 45,03:16:09,00:34:36,01:24:10,01:09:33,Details
+490,4,41,Breuer,Andreas,LC Auensee Leipzig e. V.,AK 65,03:16:25,00:39:01,01:33:27,00:58:42,Details
+491,52,506,Rudolph,Matthias,Chemnitz,AK 55,03:16:56,00:38:37,01:28:06,01:03:40,Details
+492,53,535,Hoffmann,Frank,HallzigExpress,AK 55,03:17:02,00:44:31,01:23:53,01:02:30,Details
+493,94,732,Martins,Eric,Leipzig,AK 35,03:17:12,00:34:19,01:28:47,01:06:01,Details
+494,42,594,Henze,Paul,Halle (Saale),AK 25,03:17:42,00:38:57,01:20:58,01:09:27,Details
+495,25,615,Schreiner,Mario,LSV Störmthal,AK 60,03:19:44,00:35:50,01:28:29,01:09:13,Details
+496,1,728,Schicht,Herbert,Leipzig,AK 70,03:20:51,00:54:22,01:20:03,00:58:06,Details
+497,2,118,Fichter,Dieter,KCR Sindlingen Triathlon,AK 70,03:21:11,00:30:37,01:34:19,01:07:36,Details
+498,26,175,Nieber,Fred,SC DHfK Leipzig e. V.,AK 60,03:21:34,00:31:44,01:27:03,01:14:17,Details
+499,98,380,Zink,Michael,Actemium Energy Projects - Leipzig,AK 40,03:21:37,00:33:36,01:33:10,01:08:35,Details
+500,27,337,Schmidt,Olaf,Judoclub Leipzig,AK 60,03:21:53,00:33:49,01:29:33,01:07:32,Details
+501,43,769,Thieme,Lars,Familie LinThi,AK 25,03:22:05,00:37:26,01:25:14,01:09:10,Details
+502,95,534,Vater,Benjamin,Bambi,AK 35,03:22:24,00:38:19,01:32:33,01:04:49,Details
+503,59,441,Rienäcker,Danny,Wasserballett feuchte Nixen,AK 30,03:22:44,00:43:08,01:33:56,00:59:00,Details
+504,99,431,Benschu,Jörg,Muldental-Triathlon e. V.,AK 40,03:23:12,00:40:27,01:20:20,01:14:26,Details
+505,51,227,Grau,Henrik,Team Klinikum Nürnberg,AK 50,03:26:18,00:33:15,01:27:49,01:10:17,Details
+506,54,409,Krenkel,Marco,Leipzig,AK 45,03:26:23,00:38:55,01:19:10,01:18:13,Details
+507,28,730,Lips,Sylvio,Leipzig,AK 60,03:27:07,00:38:36,01:29:53,01:09:56,Details
+508,55,402,Arns,Werner,Haltern am See,AK 45,03:27:37,00:38:54,01:28:46,01:08:35,Details
+509,56,752,Müller,Ralph,Irxleben,AK 45,03:28:01,00:39:52,01:29:56,01:11:45,Details
+510,54,725,Kipping,Jörg,SV Lok Altenburg,AK 55,03:28:22,00:48:55,01:30:05,01:02:22,Details
+511,44,745,Schwarz,Jan,Leipzig,AK 25,03:29:23,00:47:27,01:27:23,01:03:59,Details
+512,55,511,Gerhardt,Frank,Leipzig,AK 55,03:30:35,00:48:02,01:26:55,01:09:17,Details
+513,29,697,Heiner,Peter,TC Mia,AK 60,03:32:30,00:40:27,01:31:20,01:11:51,Details
+514,52,405,Lauer,Udo,Postschwimmverein Leipzig,AK 50,03:35:33,00:33:44,01:52:58,01:02:21,Details
+515,96,474,Pecnik,Sasa,,AK 35,03:36:35,00:34:31,01:42:08,01:12:00,Details
+516,30,477,Klein,Volker,WERTESTARTER,AK 60,03:36:55,00:40:12,01:34:55,01:13:48,Details
+517,100,394,Rothkegel,Stefan,Lutherstadt Eisleben,AK 40,03:37:49,00:44:14,01:31:54,01:12:58,Details
+518,19,783,Bausenwein,Felix,Leipzig,AK 20,03:44:08,01:02:32,01:29:08,01:05:25,Details
+519,97,663,Klepel,André,Leipzig - Südwest,AK 35,03:47:55,00:34:50,01:30:51,01:31:26,Details
+520,57,296,Wendt,Enrico,Auslaufmodelle.TV e. V.,AK 45,03:51:45,00:47:24,01:41:54,01:12:08,Details
+521,101,483,Folk,Matthias,Leipzig,AK 40,04:03:32,00:44:24,01:49:13,01:22:47,Details
+522,5,625,Wiechen,Jochen,Berlin,AK 65,04:08:14,00:43:40,01:41:06,01:27:21,Details
+DNF,DNF,27,Kahmann,Glenn,Leipziger Triathlon e. V.,AK 60,00:00:00,00:26:08,01:12:25,00:00:00,Details
+DNF,DNF,94,Dressel-Putz,Philipp,SC Plauen 06,AK 25,00:00:00,00:18:42,00:00:00,00:00:00,Details
+DNF,DNF,201,Popke,Jörg,DLRG Luckenwalde,AK 65,00:00:00,00:00:00,00:00:00,00:00:00,Details
+DSQ,DSQ,222,Keitz,Ralf,Leipziger Triathlon e. V.,AK 70,00:00:00,00:44:17,01:43:18,01:10:16,Details
+DNF,DNF,259,Mai,Danilo,SG Adelsberg,AK 30,00:00:00,00:25:03,00:00:00,00:00:00,Details
+DNF,DNF,314,Daschkeit,Achim,Leipzig,AK 60,00:00:00,01:03:02,01:32:51,00:00:00,Details
+DNF,DNF,349,Wetzig,Martin,Wurzen,AK 25,00:00:00,00:28:23,01:08:02,00:00:00,Details
+DNF,DNF,364,Friedrich,Marco,BAUTZEN,AK 45,00:00:00,00:29:59,00:00:00,00:00:00,Details
+DNF,DNF,374,Vettermann,Marcus,RSG Muldental Grimma e. V.,AK 35,00:00:00,00:31:16,01:12:04,00:00:00,Details
+DSQ,DSQ,423,Vogt,Andreas,Stahlrenner,AK 45,00:00:00,00:44:42,01:06:09,00:58:20,Details
+DNF,DNF,553,Köthen,Jens,Just4Fun,AK 55,00:00:00,00:00:00,00:00:00,00:00:00,Details
+DNF,DNF,659,Hergett,Frank,Franz Morish,AK 40,00:00:00,00:33:49,01:12:05,00:00:00,Details
+DNF,DNF,720,Le Vo Nam,Anh,Braunschweig,AK 25,00:00:00,00:00:00,00:00:00,00:00:00,Details
