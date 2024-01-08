@@ -23,4 +23,4 @@ However, I found the table showing the rankings as well as times of individual d
 
 ## Results
 
-PLOT HERE
+![](results.png)
